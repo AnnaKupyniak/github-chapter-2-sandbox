@@ -7,3 +7,5 @@ To fork this project on GitHub, follow these steps:
 
 2. **Click the "Fork" button:**
    - In the top right corner of the repository page, click the "Fork" button. This will create a copy of the repository in your GitHub account.
+
+07.03 🤗
